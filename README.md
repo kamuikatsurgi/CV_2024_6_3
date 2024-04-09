@@ -1,4 +1,4 @@
-## CSE541 Computer Vision Project
+## Oriented Object Detection - CSE541 CV Project
 
 - Group Number: 3
 - Project: 6
@@ -10,4 +10,5 @@
   - Dhruvesh Panchal
 
 - [Final Report](./Final-Report.pdf)
-- [Result images](./images/)
+- [Jupyter Notebook](./CV_Project_Final.ipynb)
+- [AU Drone Dataset Result Images](./images/)
