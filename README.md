@@ -10,5 +10,5 @@
   - Dhruvesh Panchal
 
 - [Final Report](./Final-Report.pdf)
-- [Jupyter Notebook](./CV_Project_Final.ipynb)
+- [Jupyter Notebook](./OOD.ipynb)
 - [AU Drone Dataset Result Images](./images/)
